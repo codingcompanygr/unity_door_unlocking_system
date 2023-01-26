@@ -1,3 +1,5 @@
+//has to be attached to the door
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
